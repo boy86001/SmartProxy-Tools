@@ -37,6 +37,5 @@ CN白名单列表，用于 SwitchyOmega 的白名单，不定更新
 
 
 
-## 作者
-* [YiSanYuan](https://t.me/YiSanYuan)
-- [ღ¹](https://github.com/Loyalsoldier/geoip) [ღ²](https://github.com/pluwen/china-domain-allowlist) 
+## 致谢
+* [ღ¹](https://t.me/YiSanYuan)[ღ²](https://github.com/Loyalsoldier/geoip) [ღ³](https://github.com/pluwen/china-domain-allowlist) 
