@@ -1,20 +1,19 @@
 # Disclaimer / 免责声明
 
 ###### This disclaimer applies to the "One" project on GitHub (hereinafter referred to as "the project"). The project link is: https://github.com/boy86001/One  
-
 本免责声明适用于 GitHub 上的 “One” 项目（以下简称“该项目”），项目链接为：https://github.com/boy86001/One。
 
-### Purpose / 用途
+## Purpose / 用途
 
 ###### The project is designed and developed solely for learning, research, and security testing purposes. It aims to provide security researchers, academics, and technology enthusiasts with a tool to understand and practice network communication technologies.  
 该项目设计和开发的初衷仅为学习、研究和安全测试目的。它旨在为安全研究者、学术界人士和技术爱好者提供一个了解和实践网络通信技术的工具。
 
-### Legality / 合法性
+## Legality / 合法性
 
 ###### Users must comply with local laws and regulations when downloading and using the project. Users are responsible for ensuring that their actions comply with the laws, regulations, and other applicable provisions of their respective regions.  
 使用者在下载和使用该项目时，必须遵守所在地的法律和规定。使用者有责任确保其行为符合所在地区的法律、规章及其他适用的规定。
 
-### Disclaimer / 免责
+## Disclaimer / 免责
 
 ###### As the author of the project (hereinafter referred to as "the author"), I explicitly state that the project should only be used for legal, ethical, and educational purposes.  
 作为该项目的作者，我（以下简称“作者”）明确声明该项目应仅用于合法、道德和教育目的。
