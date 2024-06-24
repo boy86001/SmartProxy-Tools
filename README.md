@@ -23,7 +23,7 @@
 ## SwitchyOmega 白名单
 CN白名单列表，用于 SwitchyOmega 的白名单，不定更新
 
-- 在 Chrome/Edge 中安装 [SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) 
+- 在 Chrome / Edge 安装 [SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) 
 - 在  Firefox安装 [SwitchyOmega](https://addons.mozilla.org/en-US/firefox/addon/switchyomega/) 
 - 在插件的设置中，点击「新增情景模式」-「代理服务器」，名字自己设置
 - 点击「新增情景模式」-「自动切换」，名字自己设置
