@@ -30,7 +30,7 @@
 
 
 # v2rayN/v2rayNG 白名单
-#####  CN白名单列表，用于 v2rayN/v2rayNG 的白名单，不定更新
+######  CN白名单列表，用于 v2rayN/v2rayNG 的白名单，不定更新
 
 - 安装[v2rayN](https://github.com/2dust/v2rayN)  
 - 安装[v2rayNG](https://github.com/2dust/v2rayNG)
@@ -52,7 +52,7 @@
 
 
 # SwitchyOmega 白名单
-##### CN白名单列表，用于 SwitchyOmega 的白名单，不定更新
+###### CN白名单列表，用于 SwitchyOmega 的白名单，不定更新
 
 - 在 Chrome / Edge  [安装](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) 
 - 在  Firefox [安装](https://addons.mozilla.org/en-US/firefox/addon/switchyomega/) 
@@ -68,5 +68,5 @@
 
 
 
-## 致谢
+# 致谢
 * [ღ¹](https://github.com/boy86001) [ღ²](https://github.com/Loyalsoldier/geoip) [ღ³](https://github.com/pluwen/china-domain-allowlist) 
