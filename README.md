@@ -1,17 +1,19 @@
 ## v2rayN/v2rayNG 白名单
-CN白名单列表，用于 v2rayN/v2rayNG 的白名单，不定更新
+ CN白名单列表，用于 v2rayN/v2rayNG 的白名单，不定更新
 
 - 在 v2rayN 中安装 [v2rayN](https://github.com/2dust/v2rayN)  
-- 在 v2rayNG中安装 [v2rayNG](https://github.com/2dust/v2rayNG) 
-- 代理的网址或IP
+- 在 v2rayNG中安装 [v2rayNG](https://github.com/2dust/v2rayNG)
+- 
+- 代理的网址或IP:
 ``https://github.com/boy86001/SwitchyOmega/blob/main/tlURL_Z.xml
 ``
-- 直连的网址或IP
+- 直连的IP:
 ``https://raw.githubusercontent.com/boy86001/SwitchyOmega/main/yesIP_Z.xml
 ``
+- 直连的URL:
 ``https://raw.githubusercontent.com/boy86001/SwitchyOmega/main/yesURL_Z.xml
 ``
-- 阻止的网址或IP   
+- 阻止的网址或IP:   
 ``https://raw.githubusercontent.com/boy86001/SwitchyOmega/main/noURL_Z.xml
 ``
 
