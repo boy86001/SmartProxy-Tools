@@ -10,7 +10,7 @@
 
 使用者在下载和使用该项目时，必须遵守当地法律和规定。使用者有责任确保他们的行为符合其所在地区的法律、规章以及其他适用的规定。
 
-## 免责
+### 免责
 
 作为该项目的作者，我（以下简称“作者”）强调该项目应仅用于合法、道德和教育目的。
 
@@ -29,7 +29,7 @@
 
 
 
-## v2rayN/v2rayNG 白名单
+# v2rayN/v2rayNG 白名单
  CN白名单列表，用于 v2rayN/v2rayNG 的白名单，不定更新
 
 - 安装[v2rayN](https://github.com/2dust/v2rayN)  
@@ -51,7 +51,7 @@
 
 
 
-## SwitchyOmega 白名单
+# SwitchyOmega 白名单
 CN白名单列表，用于 SwitchyOmega 的白名单，不定更新
 
 - 在 Chrome / Edge  [安装](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) 
