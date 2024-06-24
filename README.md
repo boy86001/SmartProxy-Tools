@@ -1,8 +1,8 @@
 ## v2rayN/v2rayNG 白名单
  CN白名单列表，用于 v2rayN/v2rayNG 的白名单，不定更新
 
-- 在[v2rayN](https://github.com/2dust/v2rayN)安装  
-- 在[v2rayNG](https://github.com/2dust/v2rayNG)安装
+- 安装[v2rayN](https://github.com/2dust/v2rayN)  
+- 安装[v2rayNG](https://github.com/2dust/v2rayNG)
 - 打开链接复制粘贴到‘自定义规则’ 所需的位置
 - 全部URL/IP已经是用逗号‘，’隔开,记得保存
 - 代理的网址或IP:
@@ -23,8 +23,8 @@
 ## SwitchyOmega 白名单
 CN白名单列表，用于 SwitchyOmega 的白名单，不定更新
 
-- 在 Chrome / Edge 安装 [SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) 
-- 在  Firefox安装 [SwitchyOmega](https://addons.mozilla.org/en-US/firefox/addon/switchyomega/) 
+- 在 Chrome / Edge  [安装](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) 
+- 在  Firefox [安装](https://addons.mozilla.org/en-US/firefox/addon/switchyomega/) 
 - 在插件的设置中，点击「新增情景模式」-「代理服务器」，名字自己设置
 - 点击「新增情景模式」-「自动切换」，名字自己设置
 - 规则列表设置为直连
