@@ -2,7 +2,7 @@
 ; Require: SwitchyOmega >= 2.3.21
 ; Update Date: 2024/06/24
 ; Author: Pluwen
-; Usage: 
+; Usage: https://raw.githubusercontent.com/boy86001/SwitchyOmega/main/allow-list.sorl
 
 ; IP地址段
 1*.1.*/24
