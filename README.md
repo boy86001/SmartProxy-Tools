@@ -4,6 +4,7 @@
 - 在 v2rayN 中安装 [v2rayN](https://github.com/2dust/v2rayN)  
 - 在 v2rayNG中安装 [v2rayNG](https://github.com/2dust/v2rayNG)
 - 打开链接复制粘贴到‘自定义规则’ 所需的位置
+- 全部URL已经是用逗号‘，’隔开,记得保存
 - 代理的网址或IP:
 ``https://github.com/boy86001/ONE/blob/main/tlURL_Z.xml
 ``
