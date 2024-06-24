@@ -7,15 +7,16 @@
 - 代理的网址或IP:
 ``https://github.com/boy86001/ONE/blob/main/tlURL_Z.xml
 ``
+- 阻止的网址或IP:
+``https://raw.githubusercontent.com/boy86001/ONE/main/noURL_Z.xml
+``
 - 直连的IP:
 ``https://raw.githubusercontent.com/boy86001/ONE/main/yesIP_Z.xml
 ``
 - 直连的URL:
 ``https://raw.githubusercontent.com/boy86001/ONE/main/yesURL_Z.xml
 ``
-- 阻止的网址或IP:   
-``https://raw.githubusercontent.com/boy86001/ONE/main/noURL_Z.xml
-``
+
 
 
 ## SwitchyOmega 白名单
