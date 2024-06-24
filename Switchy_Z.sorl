@@ -2,7 +2,7 @@
 ; Require: SwitchyOmega >= 2.3.21
 ; Update Date: 2024/06/24
 ; Author: YiSanYuan
-; Usage: https://raw.githubusercontent.com/boy86001/SwitchyOmega/main/Switchy_Z.sorl
+; Usage: https://raw.githubusercontent.com/boy86001/ONE/main/Switchy_Z.sorl
 
 ; IP地址段
 1*.1.*/24
