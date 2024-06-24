@@ -1,4 +1,4 @@
-## SwitchyOmega 的白名单
+## SwitchyOmega 白名单
 CN白名单列表，用于 SwitchyOmega 的白名单，不定更新
 
 - 在 Chrome/Edge 中安装 [SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) 
