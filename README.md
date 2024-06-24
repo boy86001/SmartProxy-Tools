@@ -1,7 +1,7 @@
 # Disclaimer / 免责声明
 
 ###### This disclaimer applies to the "One" project on GitHub (hereinafter referred to as "the project"). The project link is: https://github.com/boy86001/One  
-本免责声明适用于 GitHub 上的 “One” 项目（以下简称“该项目”），项目链接为：https://github.com/boy86001/One。
+本免责声明适用于 GitHub 上的 “One” 项目（以下简称“该项目”），项目链接为：https://github.com/boy86001/One
 
 ## Purpose / 用途
 
