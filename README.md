@@ -69,5 +69,4 @@
 
 
 # 致谢
-###### 作者:
-[ღ¹](https://github.com/boy86001) [ღ²](https://github.com/Loyalsoldier/geoip) [ღ³](https://github.com/pluwen/china-domain-allowlist)
+###### 作者:[ღ¹](https://github.com/boy86001) [ღ²](https://github.com/Loyalsoldier/geoip) [ღ³](https://github.com/pluwen/china-domain-allowlist)
