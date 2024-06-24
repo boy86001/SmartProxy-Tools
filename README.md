@@ -36,5 +36,5 @@ CN白名单列表，用于 SwitchyOmega 的白名单，不定更新
 - 点击「立即更新情景模式」点击左上角「界面」，将初始情景模式改为「自动切换」
 
 ## 作者
-* [boy8601](https://t.me/YiSanYuan)
+* [YiSanYuan](https://t.me/YiSanYuan)
 - [ღ¹](https://github.com/Loyalsoldier/geoip) [ღ²](https://github.com/pluwen/china-domain-allowlist) 
