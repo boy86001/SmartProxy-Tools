@@ -72,6 +72,8 @@
 
 
 ; 域名都不走代理
+*bing.com
+
 *.cn
 *.com.cn  
 *.net.cn  
