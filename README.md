@@ -75,4 +75,5 @@
 
 
 # 致谢
-###### 作者：   [ღ¹](https://github.com/boy86001)  [ღ²](https://github.com/Loyalsoldier/geoip)
+- [YiSanYuan](https://github.com/boy86001) 
+- [Loyalsoldier](https://github.com/Loyalsoldier/geoip)
