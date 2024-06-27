@@ -1,6 +1,6 @@
 # [免责声明Disclaimer](https://github.com/boy86001/ONE/wiki/%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8EDisclaimer)   
 
-# v2rayN/v2rayNG 白名单
+## v2rayN/v2rayNG 白名单
 ######  CN白名单列表，用于 v2rayN/v2rayNG 的白名单，不定更新
 
 - 安装[v2rayN](https://github.com/2dust/v2rayN)  
@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/boy86001/ONE/main/yesURL_Z.xml
 
 
 
-# SwitchyOmega 白名单
+## SwitchyOmega 白名单
 ###### CN白名单列表，用于 SwitchyOmega 的白名单，不定更新
 
 - 在 Chrome / Edge  [安装](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) 
@@ -44,6 +44,6 @@ https://raw.githubusercontent.com/boy86001/ONE/main/Switchy_Z.sorl
 
 
 
-# 致谢
+## 致谢
 - [YiSanYuan](https://github.com/boy86001) 
 - [Loyalsoldier](https://github.com/Loyalsoldier/geoip)
