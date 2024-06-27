@@ -1,4 +1,4 @@
-# 免责声明 / Disclaimer
+# [免责声明Disclaimer](https://github.com/boy86001/ONE/wiki/%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8EDisclaimer)   
 本免责声明适用于 GitHub 上的 “One” 项目（以下简称“该项目”），项目链接为：https://github.com/boy86001/One  
 ###### This disclaimer applies to the "One" project on GitHub (hereinafter referred to as "the project"). The project link is: https://github.com/boy86001/One
 
