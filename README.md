@@ -43,17 +43,21 @@
 - 打开链接复制粘贴到‘自定义规则’ 所需的位置
 - 全部URL/IP已经是用逗号‘，’隔开,记得保存
 - 代理的网址或IP:
-``https://github.com/boy86001/ONE/blob/main/tlURL_Z.xml
-``
+```bash
+https://github.com/boy86001/ONE/blob/main/tlURL_Z.xml
+```
 - 阻止的网址或IP:
-``https://raw.githubusercontent.com/boy86001/ONE/main/noURL_Z.xml
-``
+```bash
+https://raw.githubusercontent.com/boy86001/ONE/main/noURL_Z.xml
+```
 - 直连的IP:
-``https://raw.githubusercontent.com/boy86001/ONE/main/yesIP_Z.xml
-``
+```bash
+https://raw.githubusercontent.com/boy86001/ONE/main/yesIP_Z.xml
+```
 - 直连的URL:
-``https://raw.githubusercontent.com/boy86001/ONE/main/yesURL_Z.xml
-``
+```bash
+https://raw.githubusercontent.com/boy86001/ONE/main/yesURL_Z.xml
+```
 
 
 
@@ -68,8 +72,9 @@
 - 默认情景模式设置为刚才设置的代理服务器
 - 点击「添加规则列表」，在规则列表网址，输入:
 
-``https://raw.githubusercontent.com/boy86001/ONE/main/Switchy_Z.sorl
-``
+```bash
+https://raw.githubusercontent.com/boy86001/ONE/main/Switchy_Z.sorl
+```
 - 点击「立即更新情景模式」点击左上角「界面」，将初始情景模式改为「自动切换」
 
 
