@@ -10,7 +10,7 @@
 - 全部URL/IP已经是用逗号‘，’隔开,记得保存
 - 代理的网址或IP:
 ```bash
-https://github.com/boy86001/ONE/blob/main/tlURL_Z.xml
+https://raw.githubusercontent.com/boy86001/ONE/main/tlURL_Z.xml
 ```
 - 阻止的网址或IP:
 ```bash
