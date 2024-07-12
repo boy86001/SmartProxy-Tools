@@ -27,10 +27,20 @@ https://raw.githubusercontent.com/boy86001/ONE/main/yesURL_Z.xml
 
 
 
+## SmartProxy 白名单
+###### CN白名单列表，用于 SmartProxy 的白名单，不定更新
+- 在 Chrome [安装](https://chromewebstore.google.com/detail/smartproxy/jogcnplbkgkfdakgdenhlpcfhjioidoj) 
+- 在  Firefox [安装](https://addons.mozilla.org/en-US/firefox/addon/smartproxy/) 
+
+```bash
+https://raw.githubusercontent.com/boy86001/ONE/main/Switchy_Z.sorl
+```
+
+
 ## SwitchyOmega 白名单
 ###### CN白名单列表，用于 SwitchyOmega 的白名单，不定更新
 
-- 在 Chrome / Edge  [安装](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) 
+- 在 Chrome [安装](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) 
 - 在  Firefox [安装](https://addons.mozilla.org/en-US/firefox/addon/switchyomega/) 
 - 在插件的设置中，点击「新增情景模式」-「代理服务器」，名字自己设置
 - 点击「新增情景模式」-「自动切换」，名字自己设置
