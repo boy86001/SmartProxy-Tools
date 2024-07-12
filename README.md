@@ -30,10 +30,14 @@ https://raw.githubusercontent.com/boy86001/ONE/main/yesURL_Z.xml
 ## SmartProxy 白名单
 ###### CN白名单列表，用于 SmartProxy 的白名单，不定更新
 - 在 Chrome [安装](https://chromewebstore.google.com/detail/smartproxy/jogcnplbkgkfdakgdenhlpcfhjioidoj) 
-- 在  Firefox [安装](https://addons.mozilla.org/en-US/firefox/addon/smartproxy/) 
+- 在  Firefox [安装](https://addons.mozilla.org/en-US/firefox/addon/smartproxy/)
+- 在插件的设置中，点击「自动切换」-「订阅规则列表」，名字自己设置
+- 混淆选择「Base64」
+- 格式选择「AutoProxy/GFWList」
+- 点击Url输入:
 
 ```bash
-https://raw.githubusercontent.com/boy86001/ONE/main/Switchy_Z.sorl
+https://raw.githubusercontent.com/boy86001/ONE/main/gfwlist.txt
 ```
 
 
