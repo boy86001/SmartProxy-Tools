@@ -32,8 +32,8 @@ https://raw.githubusercontent.com/boy86001/ONE/main/yesURL_Z.xml
 - 在 Chrome [安装](https://chromewebstore.google.com/detail/smartproxy/jogcnplbkgkfdakgdenhlpcfhjioidoj) 
 - 在  Firefox [安装](https://addons.mozilla.org/en-US/firefox/addon/smartproxy/)
 - 在插件的设置中，点击「自动切换」-「订阅规则列表」，名字自己设置
-- 混淆 - 选择「Base64」
-- 格式 - 选择「AutoProxy/GFWList」
+- 混淆，选择「Base64」
+- 格式，选择「AutoProxy/GFWList」
 - 点击Url输入:
 
 ```bash
