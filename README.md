@@ -39,6 +39,7 @@ https://raw.githubusercontent.com/boy86001/ONE/main/yesURL_Z.xml
 ```bash
 https://raw.githubusercontent.com/boy86001/ONE/main/gfwlist.txt
 ```
+- 点击「保存」-「保存更改」
 
 
 ## SwitchyOmega 白名单
