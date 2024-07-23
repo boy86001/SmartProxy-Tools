@@ -1,6 +1,24 @@
 # [免责声明Disclaimer](https://github.com/boy86001/ONE/wiki/%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8EDisclaimer) 
 ###### This disclaimer applies to the "One" project on GitHub (hereinafter referred to as "the project"). The project link is: https://github.com/boy86001/One
 
+
+
+## SmartProxy 白名单
+###### CN白名单列表，用于 SmartProxy 的白名单，不定更新
+- 在 Chrome [安装](https://chromewebstore.google.com/detail/smartproxy/jogcnplbkgkfdakgdenhlpcfhjioidoj) 
+- 在  Firefox [安装](https://addons.mozilla.org/en-US/firefox/addon/smartproxy/)
+- 在插件的设置中，点击「自动切换」-「订阅规则列表」，名字自己设置
+- 混淆，选择「Base64」
+- 格式，选择「AutoProxy/GFWList」
+- 点击Url输入:
+
+```bash
+https://raw.githubusercontent.com/boy86001/ONE/main/gfwlist.txt
+```
+- 点击「保存」-「保存更改」
+
+
+  
 ## v2rayN/v2rayNG 白名单
 ######  CN白名单列表，用于 v2rayN/v2rayNG 的白名单，不定更新
 
@@ -25,21 +43,6 @@ https://raw.githubusercontent.com/boy86001/ONE/main/yesIP_Z.xml
 https://raw.githubusercontent.com/boy86001/ONE/main/yesURL_Z.xml
 ```
 
-
-
-## SmartProxy 白名单
-###### CN白名单列表，用于 SmartProxy 的白名单，不定更新
-- 在 Chrome [安装](https://chromewebstore.google.com/detail/smartproxy/jogcnplbkgkfdakgdenhlpcfhjioidoj) 
-- 在  Firefox [安装](https://addons.mozilla.org/en-US/firefox/addon/smartproxy/)
-- 在插件的设置中，点击「自动切换」-「订阅规则列表」，名字自己设置
-- 混淆，选择「Base64」
-- 格式，选择「AutoProxy/GFWList」
-- 点击Url输入:
-
-```bash
-https://raw.githubusercontent.com/boy86001/ONE/main/gfwlist.txt
-```
-- 点击「保存」-「保存更改」
 
 
 ## SwitchyOmega 白名单
