@@ -1,5 +1,5 @@
 # [免责声明Disclaimer](https://github.com/boy86001/SmartProxy-Tools/wiki/%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8EDisclaimer) 
-###### This disclaimer applies to the "One" project on GitHub (hereinafter referred to as "the project"). The project link is: https://github.com/boy86001/One
+###### This disclaimer applies to the "SmartProxy-Tools" project on GitHub (hereinafter referred to as "the project"). The project link is: https://github.com/boy86001/SmartProxy-Tools
 
 
 
