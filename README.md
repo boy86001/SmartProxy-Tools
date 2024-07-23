@@ -1,4 +1,4 @@
-# [免责声明Disclaimer](https://github.com/boy86001/ONE/wiki/%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8EDisclaimer) 
+# [免责声明Disclaimer](https://github.com/boy86001/SmartProxy-Tools/wiki/%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8EDisclaimer) 
 ###### This disclaimer applies to the "One" project on GitHub (hereinafter referred to as "the project"). The project link is: https://github.com/boy86001/One
 
 
@@ -13,7 +13,7 @@
 - 点击Url输入:
 
 ```bash
-https://raw.githubusercontent.com/boy86001/ONE/main/gfwlist.txt
+https://raw.githubusercontent.com/boy86001/SmartProxy-Tools/main/gfwlist.txt
 ```
 - 点击「保存」-「保存更改」
 
@@ -28,19 +28,19 @@ https://raw.githubusercontent.com/boy86001/ONE/main/gfwlist.txt
 - 全部URL/IP已经是用逗号‘，’隔开,记得保存
 - 代理的网址或IP:
 ```bash
-https://raw.githubusercontent.com/boy86001/ONE/main/tlURL_Z.xml
+https://raw.githubusercontent.com/boy86001/SmartProxy-Tools/main/tlURL_Z.xml
 ```
 - 阻止的网址或IP:
 ```bash
-https://raw.githubusercontent.com/boy86001/ONE/main/noURL_Z.xml
+https://raw.githubusercontent.com/boy86001/SmartProxy-Tools/main/noURL_Z.xml
 ```
 - 直连的IP:
 ```bash
-https://raw.githubusercontent.com/boy86001/ONE/main/yesIP_Z.xml
+https://raw.githubusercontent.com/boy86001/SmartProxy-Tools/main/yesIP_Z.xml
 ```
 - 直连的URL:
 ```bash
-https://raw.githubusercontent.com/boy86001/ONE/main/yesURL_Z.xml
+https://raw.githubusercontent.com/boy86001/SmartProxy-Tools/main/yesURL_Z.xml
 ```
 
 
@@ -57,7 +57,7 @@ https://raw.githubusercontent.com/boy86001/ONE/main/yesURL_Z.xml
 - 点击「添加规则列表」，在规则列表网址，输入:
 
 ```bash
-https://raw.githubusercontent.com/boy86001/ONE/main/Switchy_Z.sorl
+https://raw.githubusercontent.com/boy86001/SmartProxy-Tools/main/Switchy_Z.sorl
 ```
 - 点击「立即更新情景模式」点击左上角「界面」，将初始情景模式改为「自动切换」
 
