@@ -68,8 +68,4 @@ https://raw.githubusercontent.com/boy86001/SmartProxy-Tools/main/Switchy_Z.sorl
 - [Loyalsoldier](https://github.com/Loyalsoldier/geoip)
 
 
-
-**
-
-<img align="right" 
-[⬆ 返回顶部](#目录)**
+*[⬆ 返回顶部](#目录)**
