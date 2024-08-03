@@ -1,4 +1,4 @@
-# Disclaimer
+# [Disclaimer](https://github.com/boy86001/SmartProxy-Tools/wiki/%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8EDisclaimer) 
 
 This disclaimer applies to the "SmartProxy-Tools" project on GitHub (hereinafter referred to as "the project"). The project link is: [SmartProxy-Tools](https://github.com/boy86001/SmartProxy-Tools)
 
@@ -85,4 +85,3 @@ Special thanks to:
 - [YiSanYuan](https://github.com/boy86001)
 - [Loyalsoldier](https://github.com/Loyalsoldier/geoip)
 
-If you have any further questions or need assistance, please refer to the project's [GitHub page](https://github.com/boy86001/SmartProxy-Tools) or contact the relevant developers.
