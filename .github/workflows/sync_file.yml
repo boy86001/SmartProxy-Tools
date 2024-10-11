@@ -1,4 +1,4 @@
-name: Sync GFWLIST.txt
+name: Sync gfwlist.txt
 
 on:
   schedule:
