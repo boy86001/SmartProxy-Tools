@@ -1,0 +1,22 @@
+name: Sync GFWLIST.txt
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # 每小时执行一次
+  workflow_dispatch: # 手动触发
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout your repo
+        uses: actions/checkout@v2
+
+      - name: Download gfwlist.txt from upstream
+        run: |
+          curl -o GFWLIST.txt https://raw.githubusercontent.com/gfwlist/gfwlist/refs/heads/master/gfwlist.txt
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add gfwlist.txt
+          git commit -m "Auto-sync gfwlist.txt from upstream"
+          git push origin master
