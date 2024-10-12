@@ -12,20 +12,22 @@ jobs:
       - name: Checkout your repo
         uses: actions/checkout@v2
 
-      - name: Download gfwlist.txt from upstream
+      - name: Download GFWLIST.txt from upstream
         run: |
-          # 下载文件
-          curl -L -o gfwlist.txt https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
-          
+          # 下载文件，保存为 GFWLIST.txt
+          curl -L -o GFWLIST.txt https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
+
           # 配置 git 提交信息
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
-          # 添加所有文件并检查是否有更改
-          git add -A
-          if git diff --cached --exit-code; then
+
+          # 添加指定的文件
+          git add GFWLIST.txt
+
+          # 检查是否有更改
+          if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Auto-sync gfwlist.txt from upstream"
-            git push origin master
+            git commit -m "Auto-sync GFWLIST.txt from upstream"
+            git push origin main  # 确保这里的分支名称是 main
           fi
