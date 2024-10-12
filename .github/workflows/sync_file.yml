@@ -1,4 +1,4 @@
-name: Sync GFWLIST.txt
+name: Sync
 
 on:
   schedule:
@@ -15,7 +15,7 @@ jobs:
       - name: Download gfwlist.txt from upstream
         run: |
           # 下载文件
-          curl -L -o GFWLIST.txt https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
+          curl -L -o gfwlist.txt https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
           
           # 配置 git 提交信息
           git config user.name "github-actions[bot]"
