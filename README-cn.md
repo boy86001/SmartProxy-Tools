@@ -1,4 +1,4 @@
-[***English 🇬🇧***](README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[***Русский 🇷🇺***](README-🇷🇺.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[***免责声明***](https://github.com/boy86001/SmartProxy-Tools/wiki/%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8EDisclaimer) 
+[***English 🇬🇧***](README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[***README-ru***](README-🇷🇺.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[***免责声明***](https://github.com/boy86001/SmartProxy-Tools/wiki/%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8EDisclaimer) 
 
 #### 此免责声明适用于 GitHub 上的 "SmartProxy-Tools" 项目，相关链接为 [SmartProxy-Tools](https://github.com/boy86001/SmartProxy-Tools)。
 
