@@ -21,10 +21,15 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # 确保主分支是 main，且本地分支与远程分支一致
+          # 确保本地分支和远程分支同步
           DEFAULT_BRANCH="main"
-          git fetch origin $DEFAULT_BRANCH
-          git checkout $DEFAULT_BRANCH || git checkout -b $DEFAULT_BRANCH --track origin/$DEFAULT_BRANCH
+          git remote set-url origin https://github.com/boy86001/SmartProxy-Tools.git
+          git fetch origin || true
+          if git ls-remote --heads origin $DEFAULT_BRANCH | grep -q $DEFAULT_BRANCH; then
+            git checkout $DEFAULT_BRANCH
+          else
+            git checkout -b $DEFAULT_BRANCH
+          fi
           
           # 添加文件并提交更改（如果有）
           git add gfwlist.txt
