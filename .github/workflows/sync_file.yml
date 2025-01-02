@@ -21,15 +21,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # 确保本地分支和远程分支同步
-          DEFAULT_BRANCH="main"
-          git remote set-url origin https://github.com/boy86001/SmartProxy-Tools.git
-          git fetch origin || true
-          if git ls-remote --heads origin $DEFAULT_BRANCH | grep -q $DEFAULT_BRANCH; then
-            git checkout $DEFAULT_BRANCH
-          else
-            git checkout -b $DEFAULT_BRANCH
-          fi
+          # 确保分支切换到 main
+          git fetch origin main
+          git checkout main
           
           # 添加文件并提交更改（如果有）
           git add gfwlist.txt
@@ -37,5 +31,5 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Auto-sync gfwlist.txt from upstream"
-            git push origin $DEFAULT_BRANCH
+            git push origin main
           fi
