@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout your repo
         uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.PAT_TOKEN }}  # 使用个人访问令牌代替默认令牌
 
       - name: Download gfwlist.txt from upstream
         run: |
@@ -21,9 +23,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # 确保分支切换到 main
+          # 同步分支
           git fetch origin main
           git checkout main
+          git pull origin main  # 确保本地分支与远程分支一致
           
           # 添加文件并提交更改（如果有）
           git add gfwlist.txt
