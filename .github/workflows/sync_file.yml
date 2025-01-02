@@ -21,8 +21,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # 检查当前分支名称
-          CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
+          # 确保分支存在（显式指定 main 分支）
+          DEFAULT_BRANCH="main"
+          git checkout $DEFAULT_BRANCH || git checkout -b $DEFAULT_BRANCH
           
           # 添加文件并提交更改（如果有）
           git add gfwlist.txt
@@ -30,5 +31,5 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Auto-sync gfwlist.txt from upstream"
-            git push origin $CURRENT_BRANCH
+            git push origin $DEFAULT_BRANCH
           fi
