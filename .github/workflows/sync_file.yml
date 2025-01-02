@@ -21,9 +21,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # 确保分支存在（显式指定 main 分支）
+          # 确保主分支是 main，且本地分支与远程分支一致
           DEFAULT_BRANCH="main"
-          git checkout $DEFAULT_BRANCH || git checkout -b $DEFAULT_BRANCH
+          git fetch origin $DEFAULT_BRANCH
+          git checkout $DEFAULT_BRANCH || git checkout -b $DEFAULT_BRANCH --track origin/$DEFAULT_BRANCH
           
           # 添加文件并提交更改（如果有）
           git add gfwlist.txt
